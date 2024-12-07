@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\obj\Debug\Sistema de Gimnasio.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\obj\Debug\Sistema de Gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\bin\Debug\Sistema de Gimnasio.exe.config
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\bin\Debug\Sistema de Gimnasio.exe
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\bin\Debug\Sistema de Gimnasio.pdb
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\obj\Debug\Sistema de Gimnasio.exe
+C:\Users\PC\source\repos\Sistema de Gimnasio\Sistema de Gimnasio\obj\Debug\Sistema de Gimnasio.pdb
